@@ -3,3 +3,4 @@ rg
 make
 nvim
 tmux
+lazydocker
