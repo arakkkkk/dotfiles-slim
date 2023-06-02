@@ -1,0 +1,5 @@
+dotfiles/fish/fish_variables
+installer.sh
+script/installer.sh
+__pycache__/
+
